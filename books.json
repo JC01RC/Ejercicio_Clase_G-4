@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Clean Code",
+    "autor": "Robert Martin",
+    "genero": "Programacion",
+    "anioPublicacion": 2008
+  },
+  {
+    "id": 2,
+    "titulo": "JavaScript",
+    "autor": "Juan Perez",
+    "genero": "Tecnologia",
+    "anioPublicacion": 2020
+  }
+]
